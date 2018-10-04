@@ -10,4 +10,5 @@ end
 
 def countdown_with_sleep(int)
   int = int.to_i
+  sleep(5)
 end
