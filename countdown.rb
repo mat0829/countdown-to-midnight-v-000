@@ -6,3 +6,4 @@ def countdown(time)
   time -= 1
   "HAPPY NEW YEAR!"
 end
+end
